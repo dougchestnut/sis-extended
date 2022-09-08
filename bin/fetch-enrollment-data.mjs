@@ -19,7 +19,6 @@ const res = await fetch("https://louslist.org/deliverEnrollmentData.php", {
     "sec-fetch-site": "same-origin",
     "sec-fetch-user": "?1",
     "upgrade-insecure-requests": "1",
-    "cookie": "fpestid=5y6uxG12Gzg1v2OggfrUENIfVzcdqG10UU20mAh_wvf-c1bFTBmadgrBLY0glABdCPwXHw; _gid=GA1.2.99054412.1662659952; _ga=GA1.1.88967452.1662659682; _ga_FX5DG7P5FX=GS1.1.1662672314.3.1.1662674924.0.0.0",
     "Referer": `https://louslist.org/requestEnrollmentData.php?Semester=${semester}`,
     "Referrer-Policy": "strict-origin-when-cross-origin"
   },
